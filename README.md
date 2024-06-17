@@ -8,9 +8,15 @@ Note: most of these board scans come from destroyed PCBs so they may have missin
 ## Naming convention
 the folders are named after the board markings, their "technical" name
 
+
 AGB-CPU-01 = Game Boy Advance
+
 CGB-CPU-04 = Game Boy Color
+
 DMG-CPU-06 = Original Game Boy
+
 DMG-MHEU-01 = Pokemon Crystal Japanese version
+
 GCC-23-0899D = Game Cube controller
+
 MGB-LCPU-01 = Game Boy Pocket
