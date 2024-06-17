@@ -5,7 +5,7 @@ a collection of my board scans
 
 Note: most of these board scans come from destroyed PCBs so they may have missing pads.
 
-## Naming convention
+### Naming convention
 the folders are named after the board markings, their "technical" name
 
 
