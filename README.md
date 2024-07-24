@@ -11,7 +11,11 @@ the folders are named after the board markings, their "technical" name
 
 AGB-CPU-01 = Game Boy Advance
 
+AGS-CPU-11 = Game Boy Advance SP NOTE: These scans do not include the middle GROUND and POWER layers (yet)
+
 CGB-CPU-04 = Game Boy Color
+
+CGB-CPU-05 = Game Boy Color CPU E
 
 DMG-CPU-06 = Original Game Boy
 
