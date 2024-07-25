@@ -1,0 +1,257 @@
+# CPU E pinout
+
+1	P03
+
+2	P02
+
+3	P01
+
+4	VDD2
+
+5	ø
+
+6	WR
+
+7	RD
+
+8	CS
+
+9	A0
+
+10	A1
+
+11	A2
+
+12	A3
+
+13	A4
+
+14	A5
+
+15	A6
+
+16	A7
+
+17	A8
+
+18	A9
+
+19	GND
+
+20	VDD5
+
+21	A10
+
+22	A11
+
+23	A12
+
+24	A13
+
+25	A14
+
+26	A15
+
+27	D0
+
+28	D1
+
+29	D2
+
+30	D3
+
+31	D4
+
+32	D5
+
+33	D6
+
+34	D7
+
+35	RESET
+
+36	VIN
+
+37	S01
+
+38	S02
+
+39	SCK
+
+40	SIN
+
+41	SOUT
+
+42	VDD5
+
+43	GND
+
+44	R0
+
+45	R1
+
+46	R2
+
+47	R3
+
+48	GND
+
+49	GND
+
+50	GND
+
+51	X1
+
+52	X2
+
+53	GND
+
+54	GND
+
+55	VDD2
+
+56	M1
+
+57	MN1
+
+58	GND
+
+59	GND
+
+60	NC
+
+61	NC
+
+62	NC
+
+63	NC
+
+64	NC
+
+65	NC
+
+66	NC
+
+67	NC
+
+68	MOD
+
+69	SPS
+
+70	CLS
+
+71	SPL
+
+72	LDR0
+
+73	LDR1
+
+74	LDR2
+
+75	LDR3
+
+76	LDR4
+
+77	LDR5
+
+78	LDG0
+
+79	LDG1
+
+80	LDG2
+
+81	LDG3
+
+82	LDG4
+
+83	LDG5
+
+84	GND
+
+85	VDD3
+
+86	LDB0
+
+87	LDB1
+
+88	LDB2
+
+89	LDB3
+
+90	LDB4
+
+91	LDB5
+
+92	PS
+
+93	LP
+
+94	DCK
+
+95	REVC
+
+96	NC
+
+97	NC
+
+98	NC
+
+99	NC
+
+100	NC
+
+101	NC
+
+102	NC
+
+103	NC
+
+104	NC
+
+105	NC
+
+106	VDD3
+
+107	GND
+
+108	NC
+
+109	NC
+
+110	NC
+
+111	NC
+
+112	NC
+
+113	NC
+
+114	NC
+
+115	NC
+
+116	NC
+
+117	NC
+
+118	NC
+
+119	NC
+
+120	NC
+
+121	NC
+
+122	NC
+
+123	NC
+
+124	P10
+
+125	P11
+
+126	P13
+
+127	P12
+
+128	P00
