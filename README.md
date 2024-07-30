@@ -15,7 +15,7 @@ AGS-CPU-11 = Game Boy Advance SP NOTE: These scans do not include the middle GRO
 
 CGB-CPU-04 = Game Boy Color
 
-CGB-CPU-05 = Game Boy Color CPU E
+CGB-CPU-06 = Game Boy Color CPU E
 
 DMG-CPU-06 = Original Game Boy
 
