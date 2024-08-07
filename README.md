@@ -1,5 +1,5 @@
 # Board Scans
-a collection of my board scans
+a collection of my mostly Nintendo and retro gaming board scans. These board scans include copper and soldermask versions. These images are a refrence for reverse engineering, repairs and just to keep a refrence/archive of these aging boards. 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L12T33R)
 
@@ -7,7 +7,6 @@ Note: most of these board scans come from destroyed PCBs so they may have missin
 
 ### Naming convention
 the folders are named after the board markings, their "technical" name
-
 
 AGB-CPU-01 = Game Boy Advance
 
