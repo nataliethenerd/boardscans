@@ -8,7 +8,9 @@ Note: most of these board scans come from destroyed PCBs so they may have missin
 ### Naming convention
 the folders are named after the board markings, their "technical" name
 
-AGB-CPU-01 = Game Boy Advance
+AGB-CPU-01 = Game Boy Advance 40 pin
+
+AGB-CPU-10 = Game Boy Advance 32 pin
 
 AGS-CPU-11 = Game Boy Advance SP :construction: NOTE: These scans do not include the middle GROUND and POWER layers (yet)
 
