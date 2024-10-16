@@ -29,3 +29,8 @@ DOL-FRNT-01 = Game Cube front PCB (controller port/reset)
 GCC-23-0899D = Game Cube controller
 
 MGB-LCPU-01 = Game Boy Pocket
+
+### Acknowledgements
+
+Thank you to:
+- ZedLabz for the DMG and GBA SP
