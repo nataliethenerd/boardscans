@@ -30,6 +30,8 @@ GCC-23-0899D = Game Cube controller
 
 MGB-LCPU-01 = Game Boy Pocket
 
+USG-CPU-10 = DS Lite
+
 ### Acknowledgements
 
 Thank you to:
