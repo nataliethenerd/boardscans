@@ -19,6 +19,12 @@ CGB-CPU-04 = Game Boy Color
 
 CGB-CPU-06 = Game Boy Color CPU E
 
+DMG-A02-01 = Legend of Zelda, The - Link's Awakening DX, Pokemon - Yellow Version, 
+
+DMG-A03-10 = Pokemon Trading Card Game
+
+DMG-A04-01 = Pokemon Pinball 
+
 DMG-CPU-06 = Original Game Boy
 
 DMG-KGDU-10 = Pokemon Crystal English version
